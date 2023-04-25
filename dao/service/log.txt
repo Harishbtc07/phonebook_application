@@ -1,0 +1,150 @@
+13:18:41, DEBUG # _do_auth(): user: root
+13:18:41, DEBUG # _do_auth(): self._auth_plugin: 
+13:18:41, DEBUG new_auth_plugin: caching_sha2_password
+13:18:41, INFO Execution starts from here
+13:19:44, INFO One Data Inserted Successfully
+13:21:00, INFO :Searching by name
+13:21:32, INFO :Searching by mobile number
+13:21:35, INFO please provide a number
+13:21:44, INFO :Searching by mobile number
+13:23:00, INFO 
+finding the number which contains a special charactes
+13:24:00, INFO succesfully deleted
+13:25:34, DEBUG # _do_auth(): user: root
+13:25:34, DEBUG # _do_auth(): self._auth_plugin: 
+13:25:34, DEBUG new_auth_plugin: caching_sha2_password
+13:26:08, INFO One Data Inserted Successfully
+13:28:09, DEBUG # _do_auth(): user: root
+13:28:09, DEBUG # _do_auth(): self._auth_plugin: 
+13:28:09, DEBUG new_auth_plugin: caching_sha2_password
+13:28:09, INFO :Searching by name
+13:29:32, DEBUG # _do_auth(): user: root
+13:29:32, DEBUG # _do_auth(): self._auth_plugin: 
+13:29:32, DEBUG new_auth_plugin: caching_sha2_password
+13:29:32, INFO :Searching by name
+13:32:39,889 root INFO 
+finding the number which contains a special charactes
+13:34:22, DEBUG # _do_auth(): user: root
+13:34:22, DEBUG # _do_auth(): self._auth_plugin: 
+13:34:22, DEBUG new_auth_plugin: caching_sha2_password
+13:34:22, INFO Execution starts from here
+16:33:11, DEBUG # _do_auth(): user: root
+16:33:11, DEBUG # _do_auth(): self._auth_plugin: 
+16:33:11, DEBUG new_auth_plugin: caching_sha2_password
+16:33:11, INFO Execution starts from here
+16:59:07, DEBUG # _do_auth(): user: root
+16:59:07, DEBUG # _do_auth(): self._auth_plugin: 
+16:59:07, DEBUG new_auth_plugin: caching_sha2_password
+16:59:07, INFO Execution starts from here
+16:59:48, INFO One Data Inserted Successfully
+17:00:47, DEBUG # _do_auth(): user: root
+17:00:47, DEBUG # _do_auth(): self._auth_plugin: 
+17:00:47, DEBUG new_auth_plugin: caching_sha2_password
+17:00:47, INFO Execution starts from here
+17:01:29, INFO One Data Inserted Successfully
+17:06:54, DEBUG # _do_auth(): user: root
+17:06:54, DEBUG # _do_auth(): self._auth_plugin: 
+17:06:54, DEBUG new_auth_plugin: caching_sha2_password
+17:06:54, INFO Execution starts from here
+17:11:20, DEBUG # _do_auth(): user: root
+17:11:20, DEBUG # _do_auth(): self._auth_plugin: 
+17:11:20, DEBUG new_auth_plugin: caching_sha2_password
+17:11:20, INFO Execution starts from here
+17:12:46, INFO Mobile_no updated Succesfully
+10:30:00, DEBUG # _do_auth(): user: root
+10:30:00, DEBUG # _do_auth(): self._auth_plugin: 
+10:30:00, DEBUG new_auth_plugin: caching_sha2_password
+10:30:00, INFO Execution starts from here
+09:39:43, DEBUG # _do_auth(): user: root
+09:39:43, DEBUG # _do_auth(): self._auth_plugin: 
+09:39:43, DEBUG new_auth_plugin: caching_sha2_password
+09:39:43, INFO Execution starts from here
+09:39:50, DEBUG # _do_auth(): user: root
+09:39:50, DEBUG # _do_auth(): self._auth_plugin: 
+09:39:50, DEBUG new_auth_plugin: caching_sha2_password
+09:39:50, INFO Execution starts from here
+09:19:55, DEBUG # _do_auth(): user: root
+09:19:55, DEBUG # _do_auth(): self._auth_plugin: 
+09:19:55, DEBUG new_auth_plugin: caching_sha2_password
+09:19:55, INFO Execution starts from here
+15:04:47, DEBUG # _do_auth(): user: root
+15:04:47, DEBUG # _do_auth(): self._auth_plugin: 
+15:04:47, DEBUG new_auth_plugin: mysql_native_password
+15:04:47, INFO Execution starts from here
+15:05:12, DEBUG # _do_auth(): user: root
+15:05:12, DEBUG # _do_auth(): self._auth_plugin: 
+15:05:12, DEBUG new_auth_plugin: mysql_native_password
+15:05:12, INFO Execution starts from here
+15:05:38, DEBUG # _do_auth(): user: root
+15:05:38, DEBUG # _do_auth(): self._auth_plugin: 
+15:05:38, DEBUG new_auth_plugin: mysql_native_password
+15:05:43, DEBUG # _do_auth(): user: root
+15:05:43, DEBUG # _do_auth(): self._auth_plugin: 
+15:05:43, DEBUG new_auth_plugin: mysql_native_password
+15:06:29, DEBUG # _do_auth(): user: root
+15:06:29, DEBUG # _do_auth(): self._auth_plugin: 
+15:06:29, DEBUG new_auth_plugin: mysql_native_password
+15:07:43, DEBUG # _do_auth(): user: root
+15:07:43, DEBUG # _do_auth(): self._auth_plugin: 
+15:07:43, DEBUG new_auth_plugin: mysql_native_password
+15:26:00, DEBUG # _do_auth(): user: root
+15:26:00, DEBUG # _do_auth(): self._auth_plugin: 
+15:26:00, DEBUG new_auth_plugin: mysql_native_password
+15:26:56, DEBUG # _do_auth(): user: root
+15:26:56, DEBUG # _do_auth(): self._auth_plugin: 
+15:26:56, DEBUG new_auth_plugin: mysql_native_password
+15:30:54, DEBUG # _do_auth(): user: root
+15:30:54, DEBUG # _do_auth(): self._auth_plugin: 
+15:30:54, DEBUG new_auth_plugin: mysql_native_password
+15:47:25, DEBUG # _do_auth(): user: root
+15:47:25, DEBUG # _do_auth(): self._auth_plugin: 
+15:47:25, DEBUG new_auth_plugin: mysql_native_password
+15:47:55, DEBUG # _do_auth(): user: root
+15:47:55, DEBUG # _do_auth(): self._auth_plugin: 
+15:47:55, DEBUG new_auth_plugin: mysql_native_password
+15:22:27, DEBUG # _do_auth(): user: root
+15:22:27, DEBUG # _do_auth(): self._auth_plugin: 
+15:22:27, DEBUG new_auth_plugin: mysql_native_password
+15:24:02, DEBUG # _do_auth(): user: root
+15:24:02, DEBUG # _do_auth(): self._auth_plugin: 
+15:24:02, DEBUG new_auth_plugin: mysql_native_password
+15:24:27, DEBUG # _do_auth(): user: root
+15:24:27, DEBUG # _do_auth(): self._auth_plugin: 
+15:24:27, DEBUG new_auth_plugin: mysql_native_password
+15:24:45, DEBUG # _do_auth(): user: root
+15:24:45, DEBUG # _do_auth(): self._auth_plugin: 
+15:24:45, DEBUG new_auth_plugin: mysql_native_password
+15:24:45, INFO Execution starts from here
+15:25:39, INFO 
+please choose between (Home/Friends)
+15:37:29, DEBUG # _do_auth(): user: root
+15:37:29, DEBUG # _do_auth(): self._auth_plugin: 
+15:37:29, DEBUG new_auth_plugin: mysql_native_password
+15:37:43, INFO 
+please choose between (Home/Friends)
+12:07:47, DEBUG # _do_auth(): user: root
+12:07:47, DEBUG # _do_auth(): self._auth_plugin: 
+12:07:47, DEBUG new_auth_plugin: mysql_native_password
+12:08:05, INFO 
+please choose between (Home/Friends)
+12:08:05, INFO Execution starts from here
+17:08:56, DEBUG # _do_auth(): user: root
+17:08:56, DEBUG # _do_auth(): self._auth_plugin: 
+17:08:56, DEBUG new_auth_plugin: mysql_native_password
+17:09:04, DEBUG # _do_auth(): user: root
+17:09:04, DEBUG # _do_auth(): self._auth_plugin: 
+17:09:04, DEBUG new_auth_plugin: mysql_native_password
+17:09:13, DEBUG # _do_auth(): user: root
+17:09:13, DEBUG # _do_auth(): self._auth_plugin: 
+17:09:13, DEBUG new_auth_plugin: mysql_native_password
+17:09:13, INFO Execution starts from here
+17:09:42, INFO 
+please choose between (Home/Friends)
+17:10:46, DEBUG # _do_auth(): user: roo
+17:10:46, DEBUG # _do_auth(): self._auth_plugin: 
+17:10:46, DEBUG new_auth_plugin: mysql_native_password
+17:10:46, INFO Execution starts from here
+17:11:46, DEBUG # _do_auth(): user: root
+17:11:46, DEBUG # _do_auth(): self._auth_plugin: 
+17:11:46, DEBUG new_auth_plugin: mysql_native_password
+17:11:46, INFO Execution starts from here
